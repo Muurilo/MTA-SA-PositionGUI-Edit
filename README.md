@@ -1,2 +1,2 @@
 # MTA-SA-PositionGUI-Edit
-The modified PositionGUI
+The PositionGUI modified with improvements
