@@ -1,6 +1,7 @@
 --[[
 Simple Script To Get Position
 Made By |S.s|SoRa
+Edit By Bolsonaro
 --]]
 GUIEditor_Window = {}
 GUIEditor_Label = {}
