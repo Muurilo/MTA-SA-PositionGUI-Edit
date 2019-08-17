@@ -72,10 +72,10 @@ addEventHandler("onClientGUIClick", getRootElement(), onGuiClick)
 function pos()
   if guiGetVisible(GUIEditor_Window[1]) then
         guiSetVisible(GUIEditor_Window[1], false)
-				showCursor(false)
+	showCursor(false)
         else
         guiSetVisible(GUIEditor_Window[1], true)
-				showCursor(true)
+	showCursor(true)
   end
 end
 
