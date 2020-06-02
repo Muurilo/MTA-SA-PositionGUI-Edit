@@ -1,5 +1,4 @@
 <meta>
     <info author='Bolsonaro' version='1.0' name='PositionGUI' description='PositionGUI' type='script' />
     <script src='pos.lua' type='client' />
-    <script src='support.lua' type='server' />
 </meta>
